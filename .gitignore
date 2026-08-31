@@ -1,3 +1,5 @@
-docs/AUDIO FILES SPC
+docs/
 .tokensave/
 .claude/
+.venv/
+.env
